@@ -27,4 +27,3 @@ public class App {
         return "OK";
     }
 }
-apply plugin: 'maven-publish'
